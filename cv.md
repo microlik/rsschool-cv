@@ -25,4 +25,17 @@ Stepping into Git
   ```
 
 
-  
+  ## *Experience*
+
+  None
+
+
+  ## *Education*
+
+  Course Introduction to Cloud Computing (Coursera)
+
+
+  ## *Languages*
+  Russian native  
+  English C1  
+  Korean basics
