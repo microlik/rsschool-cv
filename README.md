@@ -1,1 +1,1 @@
-# rsschool-cv
+https://microlik.github.io/rsschool-cv/cv
